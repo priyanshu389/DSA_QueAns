@@ -1,0 +1,18 @@
+{
+  "C++ Template": {
+      "prefix": "cpp", 
+      "body": [
+          "#include <bits/stdc++.h>",
+          "using namespace std;",
+          "// #include \"tree.h\"  // Uncomment and modify as needed",
+          "",
+          "int main() {",
+          "    // Your code here",
+          "    // Example:",
+          "    // TreeNode* root = createSampleTree();",
+          "    return 0;",
+          "}"
+      ],
+      "description": "Default C++ template" 
+  }
+}
